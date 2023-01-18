@@ -1,0 +1,25 @@
+.header {
+  display: flex;
+  border: 1px solid grey;
+  padding: 5px;
+  border-radius: 5px;
+}
+.logo img {
+  width: 250px;
+  height: 40px;
+  cursor: pointer;
+}
+.camera-icon {
+  display: flex;
+  margin-left: auto;
+  margin-right: 10px;
+  align-items: center;
+  
+}
+.camera-icon i {
+  align-self: center;
+  font-size: 30px;
+  cursor: pointer;
+  text-decoration: none;
+  color: black;
+}
